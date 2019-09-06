@@ -1,4 +1,10 @@
-# Welcome Page
+---
+description: >-
+  We welcome you to explore various educational products. Feel free to reach out
+  for further information.
+---
+
+# Educational STEM Products
 
 {% page-ref page="brand/makeblock/codey-rocky-+-mblock-5-quick-start-guide.md" %}
 

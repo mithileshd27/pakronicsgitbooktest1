@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome Page](README.md)
+* [Educational STEM Products](README.md)
 * [Brand](brand/README.md)
   * [Seed Studio](brand/seed-studio/README.md)
     * [Grove System](brand/seed-studio/grove_system.md)
