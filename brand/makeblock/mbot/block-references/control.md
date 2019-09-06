@@ -8,7 +8,7 @@ Waits for a specified period of time to run the script.
 
 **Example:**
 
-![](../../../../.gitbook/assets/1%20%2813%29.png)
+![](../../../../.gitbook/assets/1%20%2814%29.png)
 
 When the space key is pressed, all LEDs will light up red, and 1 second later, switch to yellow.
 

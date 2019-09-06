@@ -4,11 +4,11 @@
 
 Performs mathematical addition.
 
-![](../../../../.gitbook/assets/0%20%2812%29.png)
+![](../../../../.gitbook/assets/0%20%2813%29.png)
 
 **Example:**
 
-![](../../../../.gitbook/assets/1%20%2815%29.png)
+![](../../../../.gitbook/assets/1%20%2816%29.png)
 
 When the space key is pressed, the external LED panel will display the result of "2 + 3".
 

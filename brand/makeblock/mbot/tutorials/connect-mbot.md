@@ -11,7 +11,7 @@ You can connect mBot to mBlock 5 via the USB or Bluetooth 4.0.
 
 2. Power on your mBot.
 
-![](../../../../.gitbook/assets/0%20%2814%29.png)
+![](../../../../.gitbook/assets/0%20%2815%29.png)
 
 3. Under "Devices", click "add", and choose "mBot" from the pop-up Device Library window.
 

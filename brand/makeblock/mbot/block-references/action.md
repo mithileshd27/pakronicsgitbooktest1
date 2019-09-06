@@ -8,7 +8,7 @@ Moves mBot forward at the specified power for the specified amount of time.
 
 **Example:**
 
-![](../../../../.gitbook/assets/1%20%2816%29.png)
+![](../../../../.gitbook/assets/1%20%2817%29.png)
 
 When the "↑" key is pressed, mBot will move forward at 50% power for 1 second.
 

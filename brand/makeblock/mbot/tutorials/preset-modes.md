@@ -8,7 +8,7 @@ There are three preset modes of mBot:
 
 Switch modes using the **infrared remote controller or the on-board button**.
 
-![](../../../../.gitbook/assets/0%20%289%29.png)
+![](../../../../.gitbook/assets/0%20%2810%29.png)
 
 The color of the LED on the main board indicates the current mode:  
 ![](../../../../.gitbook/assets/1%20%286%29.png) White: infrared remote control mode  

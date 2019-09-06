@@ -2,7 +2,7 @@
 
 **LEDs of mBot**
 
-![](../../../../.gitbook/assets/0%20%2810%29.png)
+![](../../../../.gitbook/assets/0%20%2811%29.png)
 
 There are two on-board RGB LEDs, as shown in the image above.
 
@@ -10,7 +10,7 @@ There are two on-board RGB LEDs, as shown in the image above.
 
 Lights up the specified LED/LEDs the specified color for the specified amount of seconds. There are three options: all LEDs, left LED, or right LED.
 
-![](../../../../.gitbook/assets/1%20%2814%29.png)
+![](../../../../.gitbook/assets/1%20%2815%29.png)
 
 **Example:**
 

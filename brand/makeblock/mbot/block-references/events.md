@@ -4,7 +4,7 @@
 
 When the green flag is clicked, run the script.
 
-![](../../../../.gitbook/assets/0%20%2811%29.png)
+![](../../../../.gitbook/assets/0%20%2812%29.png)
 
 **Example:**
 

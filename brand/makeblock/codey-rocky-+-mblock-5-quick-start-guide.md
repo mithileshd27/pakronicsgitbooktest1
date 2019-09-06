@@ -1,6 +1,6 @@
 # Codey Rocky + Mblock 5 Quick Start Guide
 
-![](../../.gitbook/assets/0%20%2813%29.png)
+![](../../.gitbook/assets/0%20%2814%29.png)
 
 \*\*\*\*
 
