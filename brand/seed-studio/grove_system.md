@@ -168,6 +168,31 @@ Grove Branch Cable for Servos are another type of Grove Cable, and are primarily
 
 The four pin keyed connector of the Grove Branch Cable for Servos will usually be connected to a Grove Shield digital socket such as D2-D9. When connecting servos, make a note of the wire color of the digital PWM cable \(yellow or white\) to know which digital pin corresponds to the servo input.
 
+| Line Finder | Ultrasonic Ranger | 80cm Infrared Proximity Sensor |
+| :--- | :--- | :--- |
+| ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/robot_4.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/robot_5.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/robot_6.jpg) |
+| [More Details](http://www.seeedstudio.com/Grove-Line-Finder-p-825.html) | [More Details](http://www.seeedstudio.com/Grove-Ultrasonic-Ranger-p-960.html) | [More Details](http://www.seeedstudio.com/Grove-80cm-Infrared-Proximity-Sensor-p-788.html) |
+
+| I2C Mini Motor Driver | I2C Motor Driver | Grove - Servo |
+| :--- | :--- | :--- |
+| ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/robot_1.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/robot_2.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/robot_3.jpg) |
+| [More Details](http://www.seeedstudio.com/Grove%C2%A0-%C2%A0I2C%C2%A0Mini%C2%A0Motor%C2%A0Driver-p-2508.html) | [More Details](http://www.seeedstudio.com/Grove-I2C-Motor-Driver-p-907.html) | [More Details](http://www.seeedstudio.com/Grove-Servo-p-1241.html) |
+
+| Air quality sensor | Gas Sensor\(MQ2\) | Gas Sensor\(MQ5\) |
+| :--- | :--- | :--- |
+| ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_1.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_2.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_3.jpg) |
+| [More Details](http://www.seeedstudio.com/Grove-Air-quality-sensor-v1.3-p-2439.html) | \[More Details\]\([http://www.seeedstudio.com/Grove-Gas-Sensor\(MQ2\)-p-937.html](http://www.seeedstudio.com/Grove-Gas-Sensor%28MQ2%29-p-937.html)\) | \[More Details\]\([http://www.seeedstudio.com/Grove-Gas-Sensor\(MQ5\)-p-938.html](http://www.seeedstudio.com/Grove-Gas-Sensor%28MQ5%29-p-938.html)\) |
+
+| Dust Sensor | Moisture Sensor | Temperature&Humidity Sensor |
+| :--- | :--- | :--- |
+| ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_7.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_8.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_9.jpg) |
+| [More Details](http://www.seeedstudio.com/Grove-Dust-Sensor-p-1050.html) | [More Details](http://www.seeedstudio.com/Grove-Moisture-Sensor-p-955.html) | [More Details](http://www.seeedstudio.com/Grove-Temperature%26Humidity-Sensor-Pro-p-838.html) |
+
+| Gas Sensor\(MQ3\) | Gas Sensor\(MQ9\) | Gas Sensor\(O2\) |
+| :--- | :--- | :--- |
+| ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_4.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_5.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_6.jpg) |
+| \[More Details\]\([http://www.seeedstudio.com/Grove-Gas-Sensor\(MQ3\)-p-1418.html](http://www.seeedstudio.com/Grove-Gas-Sensor%28MQ3%29-p-1418.html)\) | \[More Details\]\([http://www.seeedstudio.com/Grove-Gas-Sensor\(MQ9\)-p-1419.html](http://www.seeedstudio.com/Grove-Gas-Sensor%28MQ9%29-p-1419.html)\) | \[More Details\]\([http://www.seeedstudio.com/Grove-Gas-Sensor\(O2\)-p-1541.html](http://www.seeedstudio.com/Grove-Gas-Sensor%28O2%29-p-1541.html)\) |
+
 ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/cable_servo.jpg)
 
 ### Grove to 4pin Female/Male Jumper
@@ -213,7 +238,7 @@ There are many kits for different platform.
 
 Want some Grove modules for your project? Here are some recommend.
 
-### Grove Basic Input and Output
+### Grove Sensor
 
 | Grove - LED | Grove - Rotary Angle Sensor | Grove - Button |
 | :--- | :--- | :--- |
@@ -225,7 +250,7 @@ Want some Grove modules for your project? Here are some recommend.
 | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/basic_4.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/basic_5.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/basic_6.jpg) |
 | \[More Details\]\([http://www.seeedstudio.com/Grove-Switch\(P\)-p-1252.html](http://www.seeedstudio.com/Grove-Switch%28P%29-p-1252.html)\) | [More Details](http://www.seeedstudio.com/Grove-Encoder-p-1352.html) | [More Details](http://www.seeedstudio.com/Grove-Touch-Sensor-p-747.html) |
 
-### Grove for Display
+### Grove Display
 
 | I2C\_LCD | Grove - OLED Display 0.96" | Grove - OLED Display 1.12" |
 | :--- | :--- | :--- |
@@ -237,12 +262,7 @@ Want some Grove modules for your project? Here are some recommend.
 | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/display_4.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/display_5.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/display_6.jpg) |
 | [More Details](http://www.seeedstudio.com/Grove-LCD-RGB-Backlight-p-1643.html) | [More Details](http://www.seeedstudio.com/Grove-4-Digit-Display-p-1198.html) | [More Details](http://www.seeedstudio.com/Grove-LED-Bar-v2.0-p-2474.html) |
 
-### Grove for Motion Detect
-
-| Grove - IMU 10DOF v2.0 | Digital Accelerometer\(±400g\) | 3-Axis Digital Gyro |
-| :--- | :--- | :--- |
-| ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/motion_1.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/motion_2.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/motion_3.jpg) |
-| [More Details](http://www.seeedstudio.com/Grove-IMU-10DOF-v2.0-p-2691.html) | [More Details](http://www.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer%28%C2%B1400g%29-p-1897.html) | [More Details](http://www.seeedstudio.com/Grove-3-Axis-Digital-Gyro-p-750.html) |
+### Grove Actuator
 
 | 3-Axis Digital Compass | 3-Axis Digital Accelerometer\(±1.5g\) | 3-Axis Analog Accelerometer |
 | :--- | :--- | :--- |
@@ -254,7 +274,7 @@ Want some Grove modules for your project? Here are some recommend.
 | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/motion_7.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/motion_8.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/motion_9.jpg) |
 | \[More Details\]\([http://www.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer\(%C2%B116g\)-p-1156.html](http://www.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer%28%C2%B116g%29-p-1156.html)\) | [More Details](http://www.seeedstudio.com/Grove-6-Axis-Accelerometer%26Compass-v2.0-p-2476.html) | [More Details](http://www.seeedstudio.com/Grove-6-Axis-Accelerometer%26Gyroscope-p-2606.html) |
 
-### Grove for Communication
+### Grove Communication
 
 | Grove – Uart Wifi | 433MHz Simple RF link kit | 315MHz Simple RF Link Kit |
 | :--- | :--- | :--- |
@@ -271,32 +291,10 @@ Want some Grove modules for your project? Here are some recommend.
 | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/comu_7.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/comu_8.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/comu_9.jpg) |
 | \[More Details\]\([http://www.seeedstudio.com/Grove-BLE-\(dual-model\)-p-2407.html](http://www.seeedstudio.com/Grove-BLE-%28dual-model%29-p-2407.html)\) | [More Details](http://www.seeedstudio.com/Grove-NFC-p-1804.html) | [More Details](http://www.seeedstudio.com/Grove-NFC-Tag-p-1866.html) |
 
-### Grove for Environment
+### Grove Others
 
-| Air quality sensor | Gas Sensor\(MQ2\) | Gas Sensor\(MQ5\) |
+| Grove - IMU 10DOF v2.0 | Digital Accelerometer\(±400g\) | 3-Axis Digital Gyro |
 | :--- | :--- | :--- |
-| ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_1.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_2.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_3.jpg) |
-| [More Details](http://www.seeedstudio.com/Grove-Air-quality-sensor-v1.3-p-2439.html) | \[More Details\]\([http://www.seeedstudio.com/Grove-Gas-Sensor\(MQ2\)-p-937.html](http://www.seeedstudio.com/Grove-Gas-Sensor%28MQ2%29-p-937.html)\) | \[More Details\]\([http://www.seeedstudio.com/Grove-Gas-Sensor\(MQ5\)-p-938.html](http://www.seeedstudio.com/Grove-Gas-Sensor%28MQ5%29-p-938.html)\) |
-
-| Gas Sensor\(MQ3\) | Gas Sensor\(MQ9\) | Gas Sensor\(O2\) |
-| :--- | :--- | :--- |
-| ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_4.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_5.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_6.jpg) |
-| \[More Details\]\([http://www.seeedstudio.com/Grove-Gas-Sensor\(MQ3\)-p-1418.html](http://www.seeedstudio.com/Grove-Gas-Sensor%28MQ3%29-p-1418.html)\) | \[More Details\]\([http://www.seeedstudio.com/Grove-Gas-Sensor\(MQ9\)-p-1419.html](http://www.seeedstudio.com/Grove-Gas-Sensor%28MQ9%29-p-1419.html)\) | \[More Details\]\([http://www.seeedstudio.com/Grove-Gas-Sensor\(O2\)-p-1541.html](http://www.seeedstudio.com/Grove-Gas-Sensor%28O2%29-p-1541.html)\) |
-
-| Dust Sensor | Moisture Sensor | Temperature&Humidity Sensor |
-| :--- | :--- | :--- |
-| ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_7.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_8.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/env_9.jpg) |
-| [More Details](http://www.seeedstudio.com/Grove-Dust-Sensor-p-1050.html) | [More Details](http://www.seeedstudio.com/Grove-Moisture-Sensor-p-955.html) | [More Details](http://www.seeedstudio.com/Grove-Temperature%26Humidity-Sensor-Pro-p-838.html) |
-
-### Grove for Robot
-
-| I2C Mini Motor Driver | I2C Motor Driver | Grove - Servo |
-| :--- | :--- | :--- |
-| ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/robot_1.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/robot_2.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/robot_3.jpg) |
-| [More Details](http://www.seeedstudio.com/Grove%C2%A0-%C2%A0I2C%C2%A0Mini%C2%A0Motor%C2%A0Driver-p-2508.html) | [More Details](http://www.seeedstudio.com/Grove-I2C-Motor-Driver-p-907.html) | [More Details](http://www.seeedstudio.com/Grove-Servo-p-1241.html) |
-
-| Line Finder | Ultrasonic Ranger | 80cm Infrared Proximity Sensor |
-| :--- | :--- | :--- |
-| ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/robot_4.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/robot_5.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/robot_6.jpg) |
-| [More Details](http://www.seeedstudio.com/Grove-Line-Finder-p-825.html) | [More Details](http://www.seeedstudio.com/Grove-Ultrasonic-Ranger-p-960.html) | [More Details](http://www.seeedstudio.com/Grove-80cm-Infrared-Proximity-Sensor-p-788.html) |
+| ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/motion_1.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/motion_2.jpg) | ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/GroveSystem/master/images/motion_3.jpg) |
+| [More Details](http://www.seeedstudio.com/Grove-IMU-10DOF-v2.0-p-2691.html) | [More Details](http://www.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer%28%C2%B1400g%29-p-1897.html) | [More Details](http://www.seeedstudio.com/Grove-3-Axis-Digital-Gyro-p-750.html) |
 

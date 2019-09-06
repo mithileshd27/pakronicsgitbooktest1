@@ -2,7 +2,6 @@
 
 * [Welcome Page](README.md)
 * [Brand](brand/README.md)
-  * [Untitled](brand/untitled-1.md)
   * [Seed Studio](brand/seed-studio/README.md)
     * [Grove System](brand/seed-studio/grove_system.md)
     * [Grove Modules](brand/seed-studio/grove-modules/README.md)
