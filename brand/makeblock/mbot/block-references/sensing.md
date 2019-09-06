@@ -4,11 +4,11 @@
 
 Reports light intensity by the specified light sensor.
 
-![](../../../../.gitbook/assets/0%20%283%29.png)
+![](../../../../.gitbook/assets/0%20%288%29.png)
 
 **Example:**
 
-![](../../../../.gitbook/assets/1%20%285%29.png)
+![](../../../../.gitbook/assets/1%20%288%29.png)
 
 When the space key is pressed, the light intensity value will be displayed on the external LED panel.
 
@@ -16,11 +16,11 @@ When the space key is pressed, the light intensity value will be displayed on th
 
 Reports the distance of obstacles detected by the ultrasonic sensor that is connected to the specified port.
 
-![](../../../../.gitbook/assets/2%20%289%29.png)
+![](../../../../.gitbook/assets/2%20%2813%29.png)
 
 **Example:**
 
-![](../../../../.gitbook/assets/3%20%287%29.png)
+![](../../../../.gitbook/assets/3%20%2810%29.png)
 
 When the space key is pressed, the distance of obstacles detected by the ultrasonic sensor will be displayed on the external LED panel.
 
@@ -28,11 +28,11 @@ When the space key is pressed, the distance of obstacles detected by the ultraso
 
 Reports the value detected by the specified line follower sensor.
 
-![](../../../../.gitbook/assets/4%20%287%29.png)
+![](../../../../.gitbook/assets/4%20%289%29.png)
 
 **Example:**
 
-![](../../../../.gitbook/assets/5%20%281%29.png)
+![](../../../../.gitbook/assets/5%20%282%29.png)
 
 When the space key is pressed, the value detected by the line follower sensor will be displayed on the external LED panel.
 
@@ -40,7 +40,7 @@ When the space key is pressed, the value detected by the line follower sensor wi
 
 If the color detected by the specified line follower sensor on the specified side is the specified color, the report condition is met.
 
-![](../../../../.gitbook/assets/6%20%282%29.png)
+![](../../../../.gitbook/assets/6%20%283%29.png)
 
 **Example:**
 
@@ -52,11 +52,11 @@ When the green flag is clicked, if the line follower sensor detects black obstac
 
 If the on-board button is pressed or released, the report condition is met.
 
-![](../../../../.gitbook/assets/8%20%282%29.png)
+![](../../../../.gitbook/assets/8%20%283%29.png)
 
 **Example:**
 
-![](../../../../.gitbook/assets/9%20%287%29.png)
+![](../../../../.gitbook/assets/9%20%288%29.png)
 
 When the green flag is clicked, if the on-board button is pressed, the LEDs of mBot will light up red.
 
@@ -64,11 +64,11 @@ When the green flag is clicked, if the on-board button is pressed, the LEDs of m
 
 If the specified button of the IR remote is pressed, the report condition is met.
 
-![](../../../../.gitbook/assets/10%20%287%29.png)
+![](../../../../.gitbook/assets/10%20%288%29.png)
 
 **Example:**
 
-![](../../../../.gitbook/assets/11%20%285%29.png)
+![](../../../../.gitbook/assets/11%20%286%29.png)
 
 When the green flag is clicked, if button A of the IR remote is pressed, "yes" will be displayed on the external LED panel.
 
@@ -76,11 +76,11 @@ When the green flag is clicked, if button A of the IR remote is pressed, "yes" w
 
 Sends the specified IR message.
 
-![](../../../../.gitbook/assets/12%20%283%29.png)
+![](../../../../.gitbook/assets/12%20%284%29.png)
 
 **Example:**
 
-![](../../../../.gitbook/assets/13%20%284%29.png)
+![](../../../../.gitbook/assets/13%20%285%29.png)
 
 When the space key is pressed, IR message "hello" will be sent out.
 
@@ -88,7 +88,7 @@ When the space key is pressed, IR message "hello" will be sent out.
 
 Reports the received IR message.
 
-![](../../../../.gitbook/assets/14%20%284%29.png)
+![](../../../../.gitbook/assets/14%20%285%29.png)
 
 **Example:**
 

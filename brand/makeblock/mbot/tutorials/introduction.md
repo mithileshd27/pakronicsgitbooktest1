@@ -10,7 +10,7 @@ With a screwdriver and step-by-step instructions, children can build their own r
 
 Use mBlock 5 to play with your mBot. Graphical programming is ideal to show kids the magic of programming. As they progress, they can even further delve into more complicated Arduino C programming.
 
-![](../../../../.gitbook/assets/1.png)
+![](../../../../.gitbook/assets/1%20%281%29.png)
 
 You can get mBlock 5 on your PC, phones and tablets, or use mBlock 5 in a web browser.
 

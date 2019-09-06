@@ -1,10 +1,10 @@
 # Codey Rocky + Mblock 5 Quick Start Guide
 
-![](../../.gitbook/assets/0%20%288%29.png)
+![](../../.gitbook/assets/0%20%2813%29.png)
 
 \*\*\*\*
 
-![ ](../../.gitbook/assets/1%20%281%29.png)
+![ ](../../.gitbook/assets/1%20%282%29.png)
 
 For the latest version, please go to the following website:
 
@@ -12,7 +12,7 @@ For the latest version, please go to the following website:
 
 **Interface and Glossary**
 
-![](../../.gitbook/assets/2%20%285%29.png)
+![](../../.gitbook/assets/2%20%288%29.png)
 
 Blocks Area ，Scripts Area，Stage Area
 
@@ -22,7 +22,7 @@ Blocks Area ，Scripts Area，Stage Area
 
 **Examples Programs**
 
-![codey](../../.gitbook/assets/3%20%289%29.png) ![codey](../../.gitbook/assets/4%20%286%29.png)
+![codey](../../.gitbook/assets/3%20%2814%29.png) ![codey](../../.gitbook/assets/4%20%288%29.png)
 
 Alpha.8 has 12 new examples programs. Some of the projects in this document can be found in Examples Programs as well.
 
@@ -32,11 +32,11 @@ First, power on your codey. Next, connect the codey with a computer via the USB 
 
 * Start the software mblock. Click Connect Device.
 
-![](../../.gitbook/assets/5%20%2810%29.png)
+![](../../.gitbook/assets/5%20%2814%29.png)
 
 * Click Connect.
 
-![](../../.gitbook/assets/6%20%283%29.png)
+![](../../.gitbook/assets/6%20%284%29.png)
 
 Note: The COM3 here refers to the serial port number and it might vary from different systems and computers. Anyway, you can just click Connect.
 
@@ -48,11 +48,11 @@ Note: The COM3 here refers to the serial port number and it might vary from diff
 
 * Add a Sound Block and select a sound effect.
 
-![](../../.gitbook/assets/8%20%284%29.png)
+![](../../.gitbook/assets/8%20%285%29.png)
 
 * Click Upload to Device.
 
-![](../../.gitbook/assets/9%20%285%29.png)
+![](../../.gitbook/assets/9%20%286%29.png)
 
 Press the Button A on codey and you will hear some sounds from codey.
 
@@ -60,15 +60,15 @@ Press the Button A on codey and you will hear some sounds from codey.
 
 ![](../../.gitbook/assets/10%20%281%29.png)
 
-![](../../.gitbook/assets/11%20%283%29.png)
+![](../../.gitbook/assets/11%20%284%29.png)
 
 * Let’s draw up more images and control them with Button A, B, C.
 
-![](../../.gitbook/assets/12%20%285%29.png)
+![](../../.gitbook/assets/12%20%286%29.png)
 
 Tip: You can right-click the blocks to duplicate the scripts and right-click in the blank Scripts Area to rearrange all the blocks.
 
-![codey](../../.gitbook/assets/13%20%281%29.png) ![codey](../../.gitbook/assets/14.png)
+![codey](../../.gitbook/assets/13%20%282%29.png) ![codey](../../.gitbook/assets/14.png)
 
 1. Upload the program to device and save the program. ![codey](../../.gitbook/assets/15%20%284%29.png)
 2. Last step! Show your project to friends and families!

@@ -11,15 +11,15 @@ You can connect mBot to mBlock 5 via the USB or Bluetooth 4.0.
 
 2. Power on your mBot.
 
-![](../../../../.gitbook/assets/0%20%289%29.png)
+![](../../../../.gitbook/assets/0%20%2814%29.png)
 
 3. Under "Devices", click "add", and choose "mBot" from the pop-up Device Library window.
 
-![](../../../../.gitbook/assets/1%20%287%29.png)→ ![](../../../../.gitbook/assets/2%20%288%29.png)
+![](../../../../.gitbook/assets/1%20%2811%29.png)→ ![](../../../../.gitbook/assets/2%20%2812%29.png)
 
 4. Click "Connect", and from the pop-up device connection window, click "Connect" under "USB".
 
-![](../../../../.gitbook/assets/3%20%285%29.png)→ ![](../../../../.gitbook/assets/4%20%282%29.png)
+![](../../../../.gitbook/assets/3%20%287%29.png)→ ![](../../../../.gitbook/assets/4%20%283%29.png)
 
 **Method two: via Bluetooth 4.0**
 
@@ -30,7 +30,7 @@ System requirements:
 
 1. Power on your mBot.
 
-![](../../../../.gitbook/assets/5%20%284%29.png)
+![](../../../../.gitbook/assets/5%20%286%29.png)
 
 2. Turn on the Bluetooth on your PC.
 
@@ -39,9 +39,9 @@ System requirements:
 
 3. Under "Devices", click "add", and choose "mBot" from the pop-up Device Library window.
 
-![](../../../../.gitbook/assets/6%20%2811%29.png)→ ![](../../../../.gitbook/assets/7%20%283%29.png)
+![](../../../../.gitbook/assets/6%20%2813%29.png)→ ![](../../../../.gitbook/assets/7%20%283%29.png)
 
 4. Click "Connect", and from the pop-up device connection window, click "Connect" under "Bluetooth 4.0".
 
-![](../../../../.gitbook/assets/8%20%286%29.png)→ ![](../../../../.gitbook/assets/9.png)
+![](../../../../.gitbook/assets/8%20%287%29.png)→ ![](../../../../.gitbook/assets/9.png)
 

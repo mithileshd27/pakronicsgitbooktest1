@@ -133,7 +133,7 @@ Before programming the Arduino/Genuino 101, it is important to learn following k
 
 * Click on “LED Controller” under the list of peripherals to connect to it. Once connected, the services and associated characteristics will be populated in respective tabs.
 
-![](../../../.gitbook/assets/8%20%288%29.png)
+![](../../../.gitbook/assets/8%20%289%29.png)
 
 * Clicking on “Read” button will show the value of characteristics \(led\_char\) as “0” and the LED on Arduino / Genuino 101 board will be off.
 
@@ -143,11 +143,11 @@ Before programming the Arduino/Genuino 101, it is important to learn following k
 
 * You can turn on the LED by writing “01” as the characteristics value. Verify that LED on the board is lit up. The value will be updated from 0 1, if you read again.
 
-![](../../../.gitbook/assets/13%20%282%29.png)
+![](../../../.gitbook/assets/13%20%283%29.png)
 
 ![](../../../.gitbook/assets/12.png)
 
-![](../../../.gitbook/assets/11%20%287%29.png)
+![](../../../.gitbook/assets/11%20%288%29.png)
 
 ## Additional Exercise
 

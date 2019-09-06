@@ -125,7 +125,7 @@ Before programming the Arduino/Genuino 101, it is important to learn following k
 
 * From Tools menu, select the right board \(i.e., Arduino/Genuino 101\) and COM Port it is connected to.
 
-![](../../../.gitbook/assets/5%20%289%29.png)
+![](../../../.gitbook/assets/5%20%2813%29.png)
 
 * Compile \(verify\) and run \(upload\) the sketch on Arduino board. In case of any upload error, try pressing the Master Reset Button just at the start of upload process.
 

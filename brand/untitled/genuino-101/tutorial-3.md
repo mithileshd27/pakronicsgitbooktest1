@@ -34,7 +34,7 @@ Before performing this lab experiment, it is important to learn following concep
 * The axes perpendicular to earth’s gravity will indicate 0g.
 * Thus when board is held with USB connector facing downwards, x-axis would indicate acceleration value of +1g.
 
-![](../../../.gitbook/assets/2%20%284%29.png) ![](../../../.gitbook/assets/3-3.png)
+![](../../../.gitbook/assets/2%20%286%29.png) ![](../../../.gitbook/assets/3-3.png)
 
 * The orientation detection mechanism is used in smartphones to stop the caller tone / snooze alarm when the phone is flipped.
 
@@ -97,7 +97,7 @@ Before programming the Arduino/Genuino 101, it is important to learn following k
 
 * Connect the Arduino/Genuino 101 board with computer using USB cable.
 
-![](../../../.gitbook/assets/4%20%281%29.png)
+![](../../../.gitbook/assets/4%20%282%29.png)
 
 ### Arduino IDE / Library Setup
 
@@ -111,11 +111,11 @@ Before programming the Arduino/Genuino 101, it is important to learn following k
 
 * From Tools menu, select the right board \(i.e., Arduino/Genuino 101\) and COM Port it is connected to.
 
-![](../../../.gitbook/assets/6%20%2810%29.png)
+![](../../../.gitbook/assets/6%20%2812%29.png)
 
 * Compile \(verify\) and run \(upload\) the sketch on Arduino board. In case of any upload error, try pressing the Master Reset Button just at the start of upload process.
 
-![](../../../.gitbook/assets/7%20%2810%29.png)
+![](../../../.gitbook/assets/7%20%2811%29.png)
 
 * Open the “serial monitor” of Arduino IDE. It will be used to display the accelerometer values and board orientation.
 
@@ -126,7 +126,7 @@ Before programming the Arduino/Genuino 101, it is important to learn following k
 * Keep the Arduino/Genuino 101 board on a table. When it is at rest, the LED \(on-board LED at pin 13\) will be off. Initially nothing would come up on the Serial monitor.
 * Now change the orientation of the board – flip it or put analog pin side up etc. The LED should blink as and when you change the orientation of the board. The orientation of the board and acceleration values for 3-axis corresponding to that orientation would be displayed on serial monitor.
 
-![](../../../.gitbook/assets/9%20%286%29.png)
+![](../../../.gitbook/assets/9%20%287%29.png)
 
 * Verify the value of the accelerometers and orientation reported by the program against actual orientation of the board.
 
